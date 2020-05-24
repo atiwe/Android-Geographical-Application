@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="addGroup">Lägg till grupp</string>
+    <string name="userName">Användarnamn: </string>
+    <string name="groupName">Gruppnamn: </string>
+    <string name="errorAddGroup">Gruppnamn kan inte vara tomt</string>
+    <string name="noGroupInfo">Ingen gruppinformation hittad</string>
+    <string name="leave">Lämna</string>
+    <string name="join">Gå med</string>
+    <string name="username">Användarnamn</string>
+    <string name="signIn">Logga in</string>
+    <string name="emptyUsername">Användarnamn kan inte vara tomt</string>
+    <string name="groups">Grupper</string>
+    <string name="map">Karta</string>
+    <string name="groupNameTaken">Gruppnamn upptaget</string>
+    <string name="nameTaken">Användarnamn upptaget</string>
+    <string name="changeName">Ändra användarnamn</string>
+</resources>

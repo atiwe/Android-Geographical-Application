@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="addGroup">Add group</string>
+    <string name="userName">Username: </string>
+    <string name="groupName">Groupname: </string>
+    <string name="errorAddGroup">Group name is not allowed to be empty</string>
+    <string name="noGroupInfo">No group information found</string>
+    <string name="leave">Leave</string>
+    <string name="join">Join</string>
+    <string name="username">Username</string>
+    <string name="signIn">Sign in</string>
+    <string name="emptyUsername">Username can not be empty</string>
+    <string name="groups">Groups</string>
+    <string name="map">Map</string>
+    <string name="groupNameTaken">Group name taken</string>
+    <string name="nameTaken">Username taken</string>
+    <string name="changeName">Change username</string>
+</resources>
